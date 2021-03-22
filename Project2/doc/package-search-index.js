@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"edu.ncsu.csc216.hloj.model"},{"l":"edu.ncsu.csc216.hloj.model.io"},{"l":"edu.ncsu.csc216.hloj.model.lists"},{"l":"edu.ncsu.csc216.hloj.model.manager"},{"l":"edu.ncsu.csc216.hloj.view"}]
